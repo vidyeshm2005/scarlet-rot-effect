@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 1,
+  "manifest_version": 1,
   "id": "scarlet-rot-effect",
   "version": "1.0.0",
   "type": "effect",
